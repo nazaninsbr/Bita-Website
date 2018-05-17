@@ -1,2 +1,2 @@
-# Bita-Website
-URL: https://nazaninsbr.github.io/Bita-Website/ 
+# Static-Website
+URL: https://nazaninsbr.github.io/Static-Website/ 
